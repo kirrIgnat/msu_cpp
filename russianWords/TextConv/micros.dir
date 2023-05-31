@@ -1,0 +1,15 @@
+utf8.h                                        ‰   ‰utf8.h
+utf8.cpp                                      ‰   ‰utf8.cpp
+                                              ‰   ‰
+win2utf                                       ‰   ‰win2utf.cpp
+utf2win                                       ‰   ‰utf2win.cpp
+                                              ‰   ‰
+koi2utf                                       ‰   ‰koi2utf.cpp
+utf2koi                                       ‰   ‰utf2koi.cpp
+                                              ‰   ‰
+win2koi                                       ‰   ‰win2koi.cpp
+koi2win                                       ‰   ‰koi2win.cpp
+                                              ‰   ‰
+Russian in KOI-8                              ‰   ‰koi8.txt
+                                              ‰   ‰
+Makefile                                      ‰   ‰Makefile

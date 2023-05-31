@@ -1,0 +1,13 @@
+words.cpp                                     ‰   ‰words.cpp
+utf8.h                                        ‰   ‰utf8.h
+utf8.cpp                                      ‰   ‰utf8.cpp
+                                              ‰   ‰
+Test of reading                               ‰   ‰readTst.cpp
+Test of writing                               ‰   ‰writeTst.cpp
+                                              ‰   ‰
+rusChars.cpp                                  ‰   ‰rusChars.cpp
+encodeRus.cpp                                 ‰   ‰encodeRus.cpp
+                                              ‰   ‰
+Test get()                                    ‰   ‰tstget.cpp
+                                              ‰   ‰
+Makefile                                      ‰   ‰Makefile
